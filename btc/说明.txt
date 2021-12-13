@@ -1,0 +1,6 @@
+爬取网站：
+https://btc.tokenview.com/cn/blocklist
+
+api：
+url = "https://btc.tokenview.com/api/blocks/btc/{}/100".format(page)
+#规模为每页100个区块数据
